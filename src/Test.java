@@ -7,7 +7,7 @@ public class Test {
         // System.out.println(a);
         // System.out.println(a%2);
         if (a%2==0){
-            System.out.println("a is the even Number");
+            System.out.println("a is the even Number"); //a%2 will give the remainder
 
         }
         else {
